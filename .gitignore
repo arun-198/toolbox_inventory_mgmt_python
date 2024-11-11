@@ -1,0 +1,5 @@
+venv
+wsl
+__pycache__
+train
+archive
